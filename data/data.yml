@@ -1,0 +1,12 @@
+dev:
+  site: https://homapp.listo360.com.br
+  login:
+  senha:
+hom:
+  site:
+  login:
+  senha:
+prod:
+  site:
+  login:
+  senha:
